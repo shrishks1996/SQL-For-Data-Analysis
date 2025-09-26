@@ -207,7 +207,7 @@ Select min(discountedSellingPrice) from zepto where discountedSellingPrice>(Sele
 Views-
 
 
--- Creting view to hold the item which are in abundance, i.e., whose quantity is above the average of all items
+-- Creating view to hold the item which are in abundance, i.e., whose quantity is above the average of all items
 Create View Above_Par_Products AS
 (
 Select name, category, discountPercent, mrp, quantity from zepto
@@ -229,4 +229,5 @@ Select Category, name, mrp from Heavy_Products where quantity>(select AVG(quanti
 --Creating Indices for bot the tables on primary keys of both the tables-
 
 CREATE INDEX prime_index ON zepto (ID);
+
 CREATE INDEX prime_index ON zepto_Sep (ID);
