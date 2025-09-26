@@ -43,5 +43,8 @@ Each row represents a unique ID for a product. Duplicate product names exist bec
 <br>- Calculated price per gram to identify value-for-money products
 <br>- Grouped products based on weight into Low, Medium, and Bulk categories
 <br>- Measured total inventory weight per product category<br>
+<br>5. Use of Views, Subqueries to further simplify as required<br>
+<br>View is created for analysing the heavy products by wieght, having greater weights than all items' average.
+<br>Subquery is used to find out the 2nd maximum product name as required within the dataset
 <br><br>Regards,
 <br>Shrish
