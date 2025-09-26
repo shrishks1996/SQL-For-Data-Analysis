@@ -1,7 +1,7 @@
 # SQL-For-Data-Analysis
 This project contains the raw datasets and SQL queries which were operated on to gain insights from the raw datasets. SQL commands are from basic to intermediate levels including subqueries, joins and views along with the basic mathematical operations at various stages as required.
 <br>Tools Used: SQL.
-<br>Various SQL techniques like Count, Sum, Avg, Max, Min, Where clause, Subqueries, Joins, Views have been used to analyse the dataset<br>
+<br>Various SQL techniques like Count, Sum, Avg, Max, Min, Where clause, Group By, Having, Subqueries, Joins, Views have been used to analyse the dataset<br>
 <br>Project Overview<br>
 <br>The goal is to simulate how actual data analysts in the E-Commerce or retail industries work behind the scenes to use SQL to:
 <br>Set up a messy, real-world E-Commerce inventory database.
