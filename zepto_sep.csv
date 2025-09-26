@@ -1,0 +1,1001 @@
+Category,name,mrp,discountPercent,availableQuantity,weightInGms,quantity,discountedSellingPrice,outOfStock
+"Meats, Fish & Eggs",Item_179,601,13,109,477,4,522.87,FALSE
+"Meats, Fish & Eggs",Item_126,1040,23,12,746,3,800.8,FALSE
+Chocolates & Candies,Item_162,1305,2,138,695,3,1278.9,FALSE
+Fruits & Vegetables,Item_44,1772,46,123,781,4,956.88,FALSE
+Chocolates & Candies,Item_15,1027,48,108,849,1,534.04,FALSE
+Fruits & Vegetables,Item_78,25,29,89,413,2,17.75,FALSE
+Ice Cream & Desserts,Item_70,1457,34,85,251,3,961.62,FALSE
+Paan Corner,Item_178,533,47,91,931,4,282.49,FALSE
+Home & Cleaning,Item_101,812,13,23,195,2,706.44,FALSE
+Cooking Essentials,Item_160,1786,11,72,885,4,1589.54,FALSE
+Packaged Food,Item_195,30,27,3,688,4,21.9,FALSE
+Ice Cream & Desserts,Item_3,1723,43,112,1530,4,982.11,FALSE
+"Meats, Fish & Eggs",Item_86,1972,28,45,184,1,1419.84,FALSE
+Cooking Essentials,Item_74,237,42,17,675,1,137.46,FALSE
+Packaged Food,Item_51,1017,16,42,1337,4,854.28,FALSE
+Biscuits,Item_67,1818,39,160,113,3,1108.98,FALSE
+Chocolates & Candies,Item_76,1321,48,92,540,2,686.92,FALSE
+Biscuits,Item_93,818,20,102,1720,3,654.4,FALSE
+Health & Hygiene,Item_176,1167,22,123,90,1,910.26,FALSE
+Biscuits,Item_145,1316,19,9,1369,2,1065.96,FALSE
+Personal Care,Item_7,413,10,72,1076,4,371.7,FALSE
+Munchies,Item_13,1698,33,186,962,3,1137.66,FALSE
+Home & Cleaning,Item_120,1099,9,30,1779,3,1000.09,FALSE
+Personal Care,Item_66,1682,9,155,1024,4,1530.62,FALSE
+Ice Cream & Desserts,Item_4,1637,42,59,1183,3,949.46,FALSE
+"Dairy, Bread & Batter",Item_138,446,5,130,1294,1,423.7,FALSE
+Chocolates & Candies,Item_88,838,35,117,1443,4,544.7,FALSE
+"Meats, Fish & Eggs",Item_17,943,23,182,417,3,726.11,FALSE
+Packaged Food,Item_52,268,11,13,1509,4,238.52,FALSE
+Chocolates & Candies,Item_134,1999,42,185,967,2,1159.42,FALSE
+Home & Cleaning,Item_69,112,22,142,1077,4,87.36,FALSE
+Beverages,Item_137,1002,26,1,293,3,741.48,FALSE
+Packaged Food,Item_21,1600,44,23,951,1,896,FALSE
+Beverages,Item_24,778,36,63,215,4,497.92,FALSE
+"Dairy, Bread & Batter",Item_4,1134,5,198,1099,4,1077.3,FALSE
+Home & Cleaning,Item_152,1231,0,99,1468,3,1231,FALSE
+Munchies,Item_187,822,5,113,1547,1,780.9,FALSE
+Paan Corner,Item_3,235,49,23,1090,1,119.85,FALSE
+Paan Corner,Item_68,952,21,154,777,2,752.08,FALSE
+Cooking Essentials,Item_101,472,40,164,1165,2,283.2,FALSE
+Paan Corner,Item_168,246,23,90,532,3,189.42,FALSE
+"Meats, Fish & Eggs",Item_176,1059,24,166,592,1,804.84,FALSE
+"Meats, Fish & Eggs",Item_54,1154,14,190,1278,1,992.44,FALSE
+Paan Corner,Item_35,1943,25,25,1575,2,1457.25,FALSE
+Beverages,Item_56,515,7,64,980,2,478.95,FALSE
+Home & Cleaning,Item_108,1215,23,119,449,3,935.55,FALSE
+Biscuits,Item_40,1744,47,3,1280,1,924.32,FALSE
+Home & Cleaning,Item_68,823,37,156,668,4,518.49,FALSE
+Ice Cream & Desserts,Item_46,776,5,0,1219,2,737.2,TRUE
+Cooking Essentials,Item_78,643,34,49,928,3,424.38,FALSE
+Paan Corner,Item_141,1576,41,109,150,1,929.84,FALSE
+Home & Cleaning,Item_155,1348,0,138,929,1,1348,FALSE
+Health & Hygiene,Item_6,1000,45,73,879,2,550,FALSE
+"Meats, Fish & Eggs",Item_17,1830,35,186,1953,3,1189.5,FALSE
+"Meats, Fish & Eggs",Item_164,627,11,61,1314,4,558.03,FALSE
+Beverages,Item_99,1769,37,80,1996,2,1114.47,FALSE
+Biscuits,Item_81,282,10,163,808,3,253.8,FALSE
+Cooking Essentials,Item_2,1943,11,55,212,1,1729.27,FALSE
+Paan Corner,Item_77,241,41,110,1957,4,142.19,FALSE
+Chocolates & Candies,Item_180,1453,49,20,1246,3,741.03,FALSE
+Packaged Food,Item_66,777,38,140,551,4,481.74,FALSE
+Beverages,Item_52,1475,6,8,596,3,1386.5,FALSE
+Beverages,Item_92,505,10,138,1357,3,454.5,FALSE
+Biscuits,Item_171,1057,35,69,1432,3,687.05,FALSE
+Personal Care,Item_22,1142,30,128,430,3,799.4,FALSE
+Munchies,Item_111,1736,32,117,919,4,1180.48,FALSE
+Paan Corner,Item_107,511,12,197,954,2,449.68,FALSE
+Chocolates & Candies,Item_183,1892,17,55,1984,4,1570.36,FALSE
+Munchies,Item_67,34,40,30,1606,3,20.4,FALSE
+"Meats, Fish & Eggs",Item_188,1220,23,36,1893,4,939.4,FALSE
+Biscuits,Item_186,297,8,174,1236,4,273.24,FALSE
+Chocolates & Candies,Item_140,1661,30,90,1051,4,1162.7,FALSE
+Health & Hygiene,Item_69,347,40,113,658,3,208.2,FALSE
+Beverages,Item_84,1911,9,127,356,4,1739.01,FALSE
+Munchies,Item_103,1947,1,174,1412,1,1927.53,FALSE
+Biscuits,Item_39,1070,37,121,104,3,674.1,FALSE
+"Meats, Fish & Eggs",Item_13,1827,14,68,1032,4,1571.22,FALSE
+Home & Cleaning,Item_41,146,2,185,382,1,143.08,FALSE
+Cooking Essentials,Item_57,517,42,35,176,4,299.86,FALSE
+"Meats, Fish & Eggs",Item_181,236,30,31,754,2,165.2,FALSE
+Munchies,Item_12,329,5,63,292,4,312.55,FALSE
+Health & Hygiene,Item_13,1873,2,198,1934,4,1835.54,FALSE
+Biscuits,Item_120,925,10,169,649,2,832.5,FALSE
+Packaged Food,Item_97,1215,14,47,1921,3,1044.9,FALSE
+Health & Hygiene,Item_57,1907,44,80,1482,2,1067.92,FALSE
+Paan Corner,Item_40,95,27,157,552,3,69.35,FALSE
+Paan Corner,Item_118,1500,9,148,1800,2,1365,FALSE
+Packaged Food,Item_80,935,37,59,653,4,589.05,FALSE
+Ice Cream & Desserts,Item_128,62,46,140,352,4,33.48,FALSE
+Home & Cleaning,Item_173,869,49,0,1537,3,443.19,TRUE
+Munchies,Item_35,876,49,64,284,3,446.76,FALSE
+Packaged Food,Item_3,1268,6,32,1769,1,1191.92,FALSE
+Ice Cream & Desserts,Item_120,1992,14,37,1111,1,1713.12,FALSE
+Beverages,Item_5,1812,17,24,188,4,1503.96,FALSE
+Personal Care,Item_11,1832,17,153,244,4,1520.56,FALSE
+Fruits & Vegetables,Item_126,442,40,58,1600,1,265.2,FALSE
+Chocolates & Candies,Item_71,1529,23,160,1842,1,1177.33,FALSE
+Health & Hygiene,Item_117,1008,1,100,696,3,997.92,FALSE
+Chocolates & Candies,Item_184,109,39,126,50,2,66.49,FALSE
+Home & Cleaning,Item_138,999,19,40,610,3,809.19,FALSE
+Chocolates & Candies,Item_106,608,33,157,1169,1,407.36,FALSE
+Chocolates & Candies,Item_116,412,42,56,762,4,238.96,FALSE
+Cooking Essentials,Item_162,405,25,176,462,1,303.75,FALSE
+Ice Cream & Desserts,Item_67,1560,6,47,587,4,1466.4,FALSE
+"Meats, Fish & Eggs",Item_200,424,37,71,1928,4,267.12,FALSE
+Biscuits,Item_31,948,29,176,478,4,673.08,FALSE
+Beverages,Item_75,1646,41,174,284,4,971.14,FALSE
+Fruits & Vegetables,Item_71,686,4,55,398,2,658.56,FALSE
+Biscuits,Item_66,472,10,64,1829,1,424.8,FALSE
+"Meats, Fish & Eggs",Item_70,550,0,11,1943,3,550,FALSE
+Chocolates & Candies,Item_41,1659,33,68,1554,4,1111.53,FALSE
+Fruits & Vegetables,Item_191,1652,0,133,1912,4,1652,FALSE
+"Meats, Fish & Eggs",Item_160,1955,18,88,445,3,1603.1,FALSE
+Ice Cream & Desserts,Item_20,1397,1,192,1424,3,1383.03,FALSE
+"Meats, Fish & Eggs",Item_185,1163,20,24,465,4,930.4,FALSE
+Ice Cream & Desserts,Item_178,93,19,0,1959,3,75.33,TRUE
+"Meats, Fish & Eggs",Item_153,280,22,159,965,3,218.4,FALSE
+Paan Corner,Item_140,253,20,130,1960,2,202.4,FALSE
+Fruits & Vegetables,Item_199,397,23,48,1124,3,305.69,FALSE
+Packaged Food,Item_39,223,3,146,130,1,216.31,FALSE
+"Meats, Fish & Eggs",Item_145,827,11,59,85,1,736.03,FALSE
+Personal Care,Item_45,1199,21,156,1140,1,947.21,FALSE
+Chocolates & Candies,Item_139,1824,19,177,690,4,1477.44,FALSE
+Fruits & Vegetables,Item_70,68,17,1,931,1,56.44,FALSE
+Paan Corner,Item_125,1635,0,72,1740,2,1635,FALSE
+Health & Hygiene,Item_151,892,29,183,806,1,633.32,FALSE
+Health & Hygiene,Item_91,852,32,144,672,4,579.36,FALSE
+Beverages,Item_70,933,23,187,1753,2,718.41,FALSE
+"Dairy, Bread & Batter",Item_166,1537,13,109,1554,1,1337.19,FALSE
+Personal Care,Item_130,1739,35,163,517,2,1130.35,FALSE
+Cooking Essentials,Item_84,132,4,60,1215,2,126.72,FALSE
+Cooking Essentials,Item_89,1681,10,16,405,4,1512.9,FALSE
+Health & Hygiene,Item_79,1446,23,48,758,4,1113.42,FALSE
+Paan Corner,Item_113,1172,30,75,1544,2,820.4,FALSE
+Munchies,Item_93,1262,12,187,1694,1,1110.56,FALSE
+"Dairy, Bread & Batter",Item_72,1307,15,147,1069,4,1110.95,FALSE
+Cooking Essentials,Item_165,448,23,177,1961,2,344.96,FALSE
+"Meats, Fish & Eggs",Item_49,1031,12,130,1664,3,907.28,FALSE
+"Meats, Fish & Eggs",Item_52,571,23,42,951,3,439.67,FALSE
+Home & Cleaning,Item_33,1943,25,56,722,4,1457.25,FALSE
+Chocolates & Candies,Item_22,127,1,49,488,1,125.73,FALSE
+"Dairy, Bread & Batter",Item_114,1747,15,195,580,3,1484.95,FALSE
+Chocolates & Candies,Item_133,914,37,177,176,3,575.82,FALSE
+Paan Corner,Item_18,1516,45,36,254,3,833.8,FALSE
+Munchies,Item_166,404,0,45,78,1,404,FALSE
+Personal Care,Item_118,1736,48,169,494,1,902.72,FALSE
+Ice Cream & Desserts,Item_117,885,10,14,1015,4,796.5,FALSE
+"Dairy, Bread & Batter",Item_37,1493,34,160,1792,4,985.38,FALSE
+Health & Hygiene,Item_64,1868,42,79,513,3,1083.44,FALSE
+Personal Care,Item_138,1726,28,138,1353,1,1242.72,FALSE
+Home & Cleaning,Item_79,944,36,147,200,2,604.16,FALSE
+Cooking Essentials,Item_170,1111,16,23,289,3,933.24,FALSE
+Packaged Food,Item_123,961,38,124,315,4,595.82,FALSE
+Chocolates & Candies,Item_176,1445,41,191,1767,1,852.55,FALSE
+Chocolates & Candies,Item_44,84,27,117,1178,4,61.32,FALSE
+Cooking Essentials,Item_82,304,28,79,1506,4,218.88,FALSE
+Personal Care,Item_87,1826,42,93,962,1,1059.08,FALSE
+"Meats, Fish & Eggs",Item_16,30,2,64,546,3,29.4,FALSE
+Chocolates & Candies,Item_54,1939,9,87,1513,1,1764.49,FALSE
+Home & Cleaning,Item_102,1204,41,87,1821,3,710.36,FALSE
+Munchies,Item_163,1048,13,144,734,4,911.76,FALSE
+Health & Hygiene,Item_98,1244,11,125,207,1,1107.16,FALSE
+Fruits & Vegetables,Item_156,569,46,88,221,2,307.26,FALSE
+Health & Hygiene,Item_2,1119,41,60,543,3,660.21,FALSE
+Health & Hygiene,Item_94,1182,29,14,1019,2,839.22,FALSE
+Munchies,Item_141,1733,31,93,1384,3,1195.77,FALSE
+Chocolates & Candies,Item_169,381,31,50,1476,1,262.89,FALSE
+Packaged Food,Item_59,1513,41,26,1742,2,892.67,FALSE
+Biscuits,Item_69,827,31,73,1843,1,570.63,FALSE
+Cooking Essentials,Item_119,1184,25,60,725,3,888,FALSE
+Ice Cream & Desserts,Item_92,1174,0,185,708,3,1174,FALSE
+Cooking Essentials,Item_181,1102,41,30,952,3,650.18,FALSE
+"Meats, Fish & Eggs",Item_45,1293,1,11,715,3,1280.07,FALSE
+Ice Cream & Desserts,Item_148,855,16,45,1536,4,718.2,FALSE
+Chocolates & Candies,Item_24,530,29,158,416,3,376.3,FALSE
+Ice Cream & Desserts,Item_189,1666,38,31,599,2,1032.92,FALSE
+"Meats, Fish & Eggs",Item_91,380,6,159,692,3,357.2,FALSE
+Munchies,Item_94,1452,26,180,1943,1,1074.48,FALSE
+Cooking Essentials,Item_58,110,8,60,304,4,101.2,FALSE
+Paan Corner,Item_155,670,21,45,257,2,529.3,FALSE
+Cooking Essentials,Item_154,1987,33,84,499,4,1331.29,FALSE
+Biscuits,Item_128,1691,45,79,144,4,930.05,FALSE
+Ice Cream & Desserts,Item_7,1898,48,134,1933,4,986.96,FALSE
+Chocolates & Candies,Item_170,977,0,3,888,1,977,FALSE
+Beverages,Item_47,252,8,51,527,4,231.84,FALSE
+Ice Cream & Desserts,Item_53,762,19,158,732,4,617.22,FALSE
+Health & Hygiene,Item_187,521,18,111,811,3,427.22,FALSE
+Paan Corner,Item_38,858,35,35,239,1,557.7,FALSE
+Biscuits,Item_197,564,39,181,760,2,344.04,FALSE
+Chocolates & Candies,Item_53,1128,44,53,1557,2,631.68,FALSE
+Home & Cleaning,Item_143,235,3,118,1806,2,227.95,FALSE
+Personal Care,Item_154,1551,8,126,1609,1,1426.92,FALSE
+Munchies,Item_48,223,40,16,805,2,133.8,FALSE
+Personal Care,Item_95,727,21,74,1496,1,574.33,FALSE
+"Meats, Fish & Eggs",Item_147,76,17,157,885,3,63.08,FALSE
+Cooking Essentials,Item_137,405,11,104,1713,3,360.45,FALSE
+Ice Cream & Desserts,Item_64,621,41,149,1678,1,366.39,FALSE
+Biscuits,Item_93,1045,42,116,1885,2,606.1,FALSE
+Health & Hygiene,Item_182,1270,38,42,182,1,787.4,FALSE
+Health & Hygiene,Item_125,1867,8,111,104,1,1717.64,FALSE
+Packaged Food,Item_179,779,5,114,559,4,740.05,FALSE
+Cooking Essentials,Item_39,1432,18,26,719,1,1174.24,FALSE
+Fruits & Vegetables,Item_4,416,47,36,1614,4,220.48,FALSE
+Personal Care,Item_126,934,46,45,459,3,504.36,FALSE
+Ice Cream & Desserts,Item_3,1882,6,112,1284,4,1769.08,FALSE
+Paan Corner,Item_64,1513,15,34,1739,1,1286.05,FALSE
+Biscuits,Item_29,656,4,131,1366,3,629.76,FALSE
+Health & Hygiene,Item_116,231,15,79,1036,4,196.35,FALSE
+Cooking Essentials,Item_11,1189,0,79,783,1,1189,FALSE
+Fruits & Vegetables,Item_97,663,36,153,1188,3,424.32,FALSE
+Biscuits,Item_102,437,38,120,1743,4,270.94,FALSE
+Ice Cream & Desserts,Item_186,1191,18,146,308,1,976.62,FALSE
+Munchies,Item_155,986,36,121,1836,1,631.04,FALSE
+Cooking Essentials,Item_21,1449,16,80,1195,2,1217.16,FALSE
+"Dairy, Bread & Batter",Item_39,1015,25,172,348,2,761.25,FALSE
+Munchies,Item_102,1359,21,153,1848,4,1073.61,FALSE
+Health & Hygiene,Item_46,380,7,149,1454,4,353.4,FALSE
+"Dairy, Bread & Batter",Item_66,1377,32,118,610,4,936.36,FALSE
+Biscuits,Item_91,1295,1,57,1962,1,1282.05,FALSE
+Ice Cream & Desserts,Item_164,1316,29,62,1914,4,934.36,FALSE
+Health & Hygiene,Item_111,859,46,155,1574,1,463.86,FALSE
+Packaged Food,Item_82,865,19,192,346,4,700.65,FALSE
+"Dairy, Bread & Batter",Item_123,238,17,171,411,1,197.54,FALSE
+Cooking Essentials,Item_193,1921,42,99,638,1,1114.18,FALSE
+Beverages,Item_191,289,9,170,1536,2,262.99,FALSE
+Fruits & Vegetables,Item_99,1903,23,164,1511,3,1465.31,FALSE
+Paan Corner,Item_35,1323,3,65,176,1,1283.31,FALSE
+Personal Care,Item_159,1713,36,144,246,4,1096.32,FALSE
+Fruits & Vegetables,Item_156,1080,3,167,270,2,1047.6,FALSE
+"Dairy, Bread & Batter",Item_103,984,12,165,1044,4,865.92,FALSE
+Health & Hygiene,Item_129,1748,24,84,140,4,1328.48,FALSE
+Packaged Food,Item_25,1247,12,188,460,1,1097.36,FALSE
+Beverages,Item_43,767,17,136,57,1,636.61,FALSE
+Packaged Food,Item_84,1057,23,188,593,3,813.89,FALSE
+Beverages,Item_195,330,1,143,517,1,326.7,FALSE
+Personal Care,Item_191,283,47,122,369,1,149.99,FALSE
+Packaged Food,Item_51,565,32,1,1467,3,384.2,FALSE
+Beverages,Item_130,853,18,105,318,4,699.46,FALSE
+Packaged Food,Item_126,1346,8,107,1264,3,1238.32,FALSE
+Fruits & Vegetables,Item_192,1396,27,71,1934,3,1019.08,FALSE
+Chocolates & Candies,Item_69,677,34,170,1748,3,446.82,FALSE
+Beverages,Item_9,1009,38,125,110,2,625.58,FALSE
+Personal Care,Item_2,389,9,169,1511,4,353.99,FALSE
+Beverages,Item_162,720,0,56,1337,2,720,FALSE
+Beverages,Item_188,1952,41,80,846,2,1151.68,FALSE
+Home & Cleaning,Item_189,1707,20,194,1168,1,1365.6,FALSE
+Fruits & Vegetables,Item_159,1940,8,157,602,3,1784.8,FALSE
+Munchies,Item_10,1503,46,140,975,3,811.62,FALSE
+"Dairy, Bread & Batter",Item_114,755,14,18,1543,2,649.3,FALSE
+"Meats, Fish & Eggs",Item_76,684,34,6,710,1,451.44,FALSE
+Chocolates & Candies,Item_164,125,4,136,765,1,120,FALSE
+Beverages,Item_85,614,40,53,828,1,368.4,FALSE
+Paan Corner,Item_49,1075,21,103,1587,4,849.25,FALSE
+Beverages,Item_70,1829,40,85,1763,2,1097.4,FALSE
+Home & Cleaning,Item_177,388,22,81,243,4,302.64,FALSE
+Packaged Food,Item_131,1755,6,60,531,1,1649.7,FALSE
+"Dairy, Bread & Batter",Item_133,1239,22,86,1972,1,966.42,FALSE
+Paan Corner,Item_189,475,43,1,1409,1,270.75,FALSE
+Chocolates & Candies,Item_90,1765,24,177,1508,3,1341.4,FALSE
+Paan Corner,Item_26,289,26,30,1269,2,213.86,FALSE
+Munchies,Item_72,1681,40,32,904,3,1008.6,FALSE
+Fruits & Vegetables,Item_5,627,5,79,1322,4,595.65,FALSE
+Personal Care,Item_15,127,33,10,547,3,85.09,FALSE
+Cooking Essentials,Item_123,1270,8,160,261,2,1168.4,FALSE
+Personal Care,Item_144,318,48,127,714,3,165.36,FALSE
+Cooking Essentials,Item_1,1489,32,134,719,1,1012.52,FALSE
+Chocolates & Candies,Item_144,1933,5,127,1539,4,1836.35,FALSE
+Ice Cream & Desserts,Item_165,1508,36,30,1947,4,965.12,FALSE
+"Dairy, Bread & Batter",Item_3,109,30,175,1724,1,76.3,FALSE
+Ice Cream & Desserts,Item_180,270,33,125,270,1,180.9,FALSE
+Personal Care,Item_47,1002,40,46,322,1,601.2,FALSE
+Cooking Essentials,Item_95,1338,28,180,1227,2,963.36,FALSE
+Biscuits,Item_13,1387,13,106,1322,3,1206.69,FALSE
+Home & Cleaning,Item_120,295,35,18,328,4,191.75,FALSE
+Chocolates & Candies,Item_55,337,35,80,1513,3,219.05,FALSE
+Chocolates & Candies,Item_149,1136,14,122,865,1,976.96,FALSE
+"Meats, Fish & Eggs",Item_66,72,7,133,325,1,66.96,FALSE
+"Meats, Fish & Eggs",Item_182,696,25,106,1054,3,522,FALSE
+Fruits & Vegetables,Item_155,1315,35,48,563,4,854.75,FALSE
+Cooking Essentials,Item_166,1474,47,72,1161,2,781.22,FALSE
+Fruits & Vegetables,Item_90,1326,20,49,1872,3,1060.8,FALSE
+"Meats, Fish & Eggs",Item_186,747,27,80,972,1,545.31,FALSE
+Ice Cream & Desserts,Item_62,1040,3,94,691,1,1008.8,FALSE
+Personal Care,Item_102,648,15,11,554,2,550.8,FALSE
+Health & Hygiene,Item_174,945,21,22,639,3,746.55,FALSE
+Chocolates & Candies,Item_139,1125,11,53,821,2,1001.25,FALSE
+Munchies,Item_200,1968,15,117,1314,2,1672.8,FALSE
+Biscuits,Item_8,1223,39,196,1726,4,746.03,FALSE
+Chocolates & Candies,Item_97,1904,37,58,789,4,1199.52,FALSE
+Beverages,Item_117,485,41,163,724,1,286.15,FALSE
+"Dairy, Bread & Batter",Item_199,1544,36,2,1309,3,988.16,FALSE
+Home & Cleaning,Item_64,1495,28,57,1063,4,1076.4,FALSE
+Health & Hygiene,Item_21,62,17,182,177,1,51.46,FALSE
+Biscuits,Item_200,763,9,56,552,3,694.33,FALSE
+Beverages,Item_115,495,41,144,1273,1,292.05,FALSE
+Fruits & Vegetables,Item_191,1677,38,166,951,4,1039.74,FALSE
+Biscuits,Item_85,1523,17,89,592,1,1264.09,FALSE
+Ice Cream & Desserts,Item_192,1397,0,195,1575,3,1397,FALSE
+"Meats, Fish & Eggs",Item_20,1145,38,54,1723,3,709.9,FALSE
+Chocolates & Candies,Item_8,418,20,44,541,1,334.4,FALSE
+Biscuits,Item_58,1040,0,0,1094,3,1040,TRUE
+"Dairy, Bread & Batter",Item_46,1775,14,20,1307,1,1526.5,FALSE
+Paan Corner,Item_31,677,3,20,763,3,656.69,FALSE
+Munchies,Item_93,1230,19,51,840,1,996.3,FALSE
+Fruits & Vegetables,Item_9,844,9,81,1716,1,768.04,FALSE
+Packaged Food,Item_15,885,22,170,465,1,690.3,FALSE
+Home & Cleaning,Item_94,1768,40,179,197,2,1060.8,FALSE
+Ice Cream & Desserts,Item_154,376,33,66,1019,3,251.92,FALSE
+Home & Cleaning,Item_138,1011,45,112,78,4,556.05,FALSE
+Biscuits,Item_29,259,47,43,1434,1,137.27,FALSE
+Paan Corner,Item_80,1949,32,159,357,2,1325.32,FALSE
+Chocolates & Candies,Item_36,1628,33,9,1956,4,1090.76,FALSE
+Packaged Food,Item_84,1273,38,63,211,1,789.26,FALSE
+Ice Cream & Desserts,Item_109,389,9,68,918,4,353.99,FALSE
+Beverages,Item_118,1940,19,67,901,2,1571.4,FALSE
+Health & Hygiene,Item_37,881,0,27,110,4,881,FALSE
+Chocolates & Candies,Item_86,844,12,180,174,1,742.72,FALSE
+Beverages,Item_71,1504,0,115,1529,4,1504,FALSE
+Health & Hygiene,Item_151,784,4,50,1144,4,752.64,FALSE
+Paan Corner,Item_169,928,15,180,887,1,788.8,FALSE
+Health & Hygiene,Item_93,1734,14,3,1980,2,1491.24,FALSE
+Munchies,Item_80,464,48,78,1949,2,241.28,FALSE
+Chocolates & Candies,Item_102,375,27,16,515,4,273.75,FALSE
+Ice Cream & Desserts,Item_156,1323,30,107,292,3,926.1,FALSE
+Munchies,Item_176,1907,22,194,1563,4,1487.46,FALSE
+Cooking Essentials,Item_166,412,47,73,1834,3,218.36,FALSE
+"Dairy, Bread & Batter",Item_159,67,44,174,1294,4,37.52,FALSE
+Biscuits,Item_14,530,42,183,522,2,307.4,FALSE
+Beverages,Item_117,1337,16,22,1008,4,1123.08,FALSE
+"Dairy, Bread & Batter",Item_73,1148,48,17,582,4,596.96,FALSE
+Beverages,Item_91,219,33,128,543,3,146.73,FALSE
+Ice Cream & Desserts,Item_90,1074,12,34,948,2,945.12,FALSE
+Biscuits,Item_29,825,13,63,131,3,717.75,FALSE
+Cooking Essentials,Item_179,182,10,185,905,4,163.8,FALSE
+Personal Care,Item_49,243,27,58,928,1,177.39,FALSE
+Health & Hygiene,Item_171,802,41,0,1595,4,473.18,TRUE
+Paan Corner,Item_72,1917,31,130,972,4,1322.73,FALSE
+Personal Care,Item_133,1623,34,66,61,3,1071.18,FALSE
+Personal Care,Item_42,1653,30,36,1336,1,1157.1,FALSE
+Home & Cleaning,Item_135,802,16,28,1730,1,673.68,FALSE
+"Meats, Fish & Eggs",Item_42,1436,46,88,498,3,775.44,FALSE
+Chocolates & Candies,Item_164,1072,8,160,1265,2,986.24,FALSE
+"Dairy, Bread & Batter",Item_105,128,9,99,811,1,116.48,FALSE
+"Dairy, Bread & Batter",Item_27,344,7,188,1187,1,319.92,FALSE
+"Dairy, Bread & Batter",Item_58,1369,20,121,75,3,1095.2,FALSE
+Munchies,Item_46,1572,12,89,1856,2,1383.36,FALSE
+Ice Cream & Desserts,Item_66,1649,49,131,1572,2,840.99,FALSE
+"Dairy, Bread & Batter",Item_25,1107,4,13,557,4,1062.72,FALSE
+Ice Cream & Desserts,Item_73,1224,5,160,1618,4,1162.8,FALSE
+Chocolates & Candies,Item_117,333,29,149,111,3,236.43,FALSE
+Personal Care,Item_155,1020,30,175,278,2,714,FALSE
+Cooking Essentials,Item_129,1180,16,130,1888,3,991.2,FALSE
+Chocolates & Candies,Item_87,1800,10,84,656,4,1620,FALSE
+"Dairy, Bread & Batter",Item_74,293,19,150,1108,3,237.33,FALSE
+"Meats, Fish & Eggs",Item_170,222,47,195,1778,3,117.66,FALSE
+Fruits & Vegetables,Item_180,1668,8,20,1529,1,1534.56,FALSE
+Biscuits,Item_153,1751,1,170,1661,1,1733.49,FALSE
+"Dairy, Bread & Batter",Item_182,938,36,25,940,1,600.32,FALSE
+Paan Corner,Item_125,761,0,40,1575,4,761,FALSE
+Fruits & Vegetables,Item_67,1427,3,121,810,3,1384.19,FALSE
+Chocolates & Candies,Item_6,348,35,37,644,1,226.2,FALSE
+Paan Corner,Item_125,1831,24,87,1098,1,1391.56,FALSE
+Paan Corner,Item_58,1055,2,10,1642,1,1033.9,FALSE
+Beverages,Item_70,1804,8,28,1105,4,1659.68,FALSE
+Paan Corner,Item_53,1902,21,59,1904,4,1502.58,FALSE
+"Dairy, Bread & Batter",Item_66,114,22,194,1085,3,88.92,FALSE
+Beverages,Item_58,1499,11,192,1392,3,1334.11,FALSE
+Home & Cleaning,Item_82,1492,9,60,1918,3,1357.72,FALSE
+Cooking Essentials,Item_87,1465,33,146,1677,1,981.55,FALSE
+Personal Care,Item_2,779,42,173,50,2,451.82,FALSE
+Paan Corner,Item_150,725,9,176,1508,4,659.75,FALSE
+"Meats, Fish & Eggs",Item_37,1855,29,21,1911,1,1317.05,FALSE
+Packaged Food,Item_148,1807,21,77,1209,1,1427.53,FALSE
+Biscuits,Item_103,1652,5,112,1269,3,1569.4,FALSE
+Paan Corner,Item_24,772,49,184,182,3,393.72,FALSE
+Ice Cream & Desserts,Item_112,1969,1,122,135,1,1949.31,FALSE
+Home & Cleaning,Item_65,1254,29,141,1549,4,890.34,FALSE
+Health & Hygiene,Item_193,388,1,43,1880,4,384.12,FALSE
+Ice Cream & Desserts,Item_129,1255,31,143,1864,1,865.95,FALSE
+Chocolates & Candies,Item_117,1291,41,96,1397,2,761.69,FALSE
+Packaged Food,Item_116,722,15,76,1253,2,613.7,FALSE
+Chocolates & Candies,Item_105,1400,11,139,565,4,1246,FALSE
+Cooking Essentials,Item_3,1803,0,54,1711,3,1803,FALSE
+Home & Cleaning,Item_46,1382,7,50,224,2,1285.26,FALSE
+Health & Hygiene,Item_55,234,47,101,812,2,124.02,FALSE
+Chocolates & Candies,Item_75,1747,49,166,1094,3,890.97,FALSE
+Chocolates & Candies,Item_192,747,12,160,1046,2,657.36,FALSE
+Chocolates & Candies,Item_45,245,14,160,1178,1,210.7,FALSE
+Home & Cleaning,Item_154,192,43,28,627,2,109.44,FALSE
+Packaged Food,Item_77,721,7,68,1516,3,670.53,FALSE
+Personal Care,Item_193,1902,9,197,1848,1,1730.82,FALSE
+Biscuits,Item_24,1791,45,158,98,2,985.05,FALSE
+Home & Cleaning,Item_35,453,4,79,577,4,434.88,FALSE
+Health & Hygiene,Item_24,1898,49,30,194,1,967.98,FALSE
+Paan Corner,Item_28,632,18,111,1413,1,518.24,FALSE
+Cooking Essentials,Item_16,1039,46,45,811,4,561.06,FALSE
+Personal Care,Item_59,1269,37,96,1928,4,799.47,FALSE
+Munchies,Item_182,1160,10,51,1427,2,1044,FALSE
+Personal Care,Item_144,1137,42,137,1148,2,659.46,FALSE
+Paan Corner,Item_15,758,19,73,1875,3,613.98,FALSE
+"Meats, Fish & Eggs",Item_11,1948,19,40,978,3,1577.88,FALSE
+Beverages,Item_193,1513,20,76,843,1,1210.4,FALSE
+Biscuits,Item_79,164,17,130,1651,4,136.12,FALSE
+Biscuits,Item_115,266,49,186,1710,4,135.66,FALSE
+"Meats, Fish & Eggs",Item_68,244,9,113,368,3,222.04,FALSE
+Beverages,Item_43,509,33,51,1160,1,341.03,FALSE
+Biscuits,Item_69,298,25,161,1626,1,223.5,FALSE
+Health & Hygiene,Item_141,519,29,176,747,3,368.49,FALSE
+Fruits & Vegetables,Item_138,1585,8,155,1939,3,1458.2,FALSE
+Fruits & Vegetables,Item_75,1833,45,86,1965,3,1008.15,FALSE
+Biscuits,Item_103,718,30,108,896,2,502.6,FALSE
+Munchies,Item_41,794,41,140,1851,1,468.46,FALSE
+"Dairy, Bread & Batter",Item_178,903,3,68,832,1,875.91,FALSE
+Biscuits,Item_199,785,5,119,91,1,745.75,FALSE
+Cooking Essentials,Item_59,1602,13,66,1166,3,1393.74,FALSE
+Cooking Essentials,Item_39,307,3,60,1770,3,297.79,FALSE
+Paan Corner,Item_3,1643,25,187,1800,3,1232.25,FALSE
+Paan Corner,Item_7,146,46,70,1580,3,78.84,FALSE
+Munchies,Item_49,385,47,151,578,4,204.05,FALSE
+Cooking Essentials,Item_26,96,38,190,1338,3,59.52,FALSE
+Ice Cream & Desserts,Item_161,1452,16,188,1699,2,1219.68,FALSE
+Beverages,Item_101,1787,18,150,341,4,1465.34,FALSE
+Chocolates & Candies,Item_176,1232,48,29,1018,4,640.64,FALSE
+Personal Care,Item_79,1496,5,187,1537,3,1421.2,FALSE
+Health & Hygiene,Item_2,446,28,145,1877,1,321.12,FALSE
+"Meats, Fish & Eggs",Item_127,1343,10,95,1633,3,1208.7,FALSE
+Packaged Food,Item_199,1629,15,55,1892,1,1384.65,FALSE
+Biscuits,Item_160,1787,29,52,146,3,1268.77,FALSE
+Chocolates & Candies,Item_132,1314,24,6,1960,3,998.64,FALSE
+Chocolates & Candies,Item_20,1356,39,96,1168,1,827.16,FALSE
+Health & Hygiene,Item_117,773,10,196,1399,1,695.7,FALSE
+"Meats, Fish & Eggs",Item_164,711,6,112,123,1,668.34,FALSE
+Munchies,Item_32,1984,25,124,1409,1,1488,FALSE
+Paan Corner,Item_28,951,21,199,1141,2,751.29,FALSE
+Home & Cleaning,Item_77,161,24,179,807,1,122.36,FALSE
+Health & Hygiene,Item_1,1335,18,131,1991,3,1094.7,FALSE
+Chocolates & Candies,Item_188,1311,30,161,1150,3,917.7,FALSE
+Fruits & Vegetables,Item_56,1684,25,196,257,2,1263,FALSE
+Biscuits,Item_35,1721,41,160,1957,1,1015.39,FALSE
+Beverages,Item_112,1041,40,120,1839,3,624.6,FALSE
+Cooking Essentials,Item_30,816,35,196,1294,2,530.4,FALSE
+Fruits & Vegetables,Item_54,244,22,37,1335,3,190.32,FALSE
+Chocolates & Candies,Item_36,684,46,121,459,2,369.36,FALSE
+Personal Care,Item_183,570,12,25,380,2,501.6,FALSE
+Packaged Food,Item_80,1335,24,128,393,4,1014.6,FALSE
+"Dairy, Bread & Batter",Item_58,47,1,3,1038,4,46.53,FALSE
+"Meats, Fish & Eggs",Item_83,1169,1,38,820,1,1157.31,FALSE
+Ice Cream & Desserts,Item_65,831,15,53,1893,4,706.35,FALSE
+Paan Corner,Item_69,430,8,160,123,2,395.6,FALSE
+Biscuits,Item_128,1252,27,32,1710,3,913.96,FALSE
+Beverages,Item_51,357,12,199,1773,3,314.16,FALSE
+Home & Cleaning,Item_22,1841,34,19,303,1,1215.06,FALSE
+Paan Corner,Item_107,1579,40,15,1008,4,947.4,FALSE
+Biscuits,Item_109,1897,12,148,1906,1,1669.36,FALSE
+Home & Cleaning,Item_116,1112,30,172,869,2,778.4,FALSE
+Beverages,Item_101,757,20,126,1820,4,605.6,FALSE
+Chocolates & Candies,Item_181,1928,31,86,1035,1,1330.32,FALSE
+Cooking Essentials,Item_100,282,33,81,1835,3,188.94,FALSE
+"Dairy, Bread & Batter",Item_164,1194,7,61,381,3,1110.42,FALSE
+Munchies,Item_68,1720,40,30,1471,1,1032,FALSE
+Fruits & Vegetables,Item_36,1911,47,41,1418,1,1012.83,FALSE
+Munchies,Item_180,317,1,11,1657,1,313.83,FALSE
+Fruits & Vegetables,Item_181,1407,37,64,796,2,886.41,FALSE
+Chocolates & Candies,Item_178,985,31,72,885,2,679.65,FALSE
+Paan Corner,Item_169,742,39,130,1741,3,452.62,FALSE
+Packaged Food,Item_146,1042,27,114,504,2,760.66,FALSE
+Chocolates & Candies,Item_22,1834,36,136,1979,2,1173.76,FALSE
+Chocolates & Candies,Item_66,453,40,105,1188,4,271.8,FALSE
+Ice Cream & Desserts,Item_21,1146,0,178,362,2,1146,FALSE
+Biscuits,Item_100,1238,40,15,1067,4,742.8,FALSE
+Packaged Food,Item_128,414,9,77,277,2,376.74,FALSE
+Ice Cream & Desserts,Item_44,1731,3,124,883,3,1679.07,FALSE
+Ice Cream & Desserts,Item_103,862,34,130,907,1,568.92,FALSE
+Biscuits,Item_47,1230,9,151,1318,3,1119.3,FALSE
+Munchies,Item_39,787,46,140,867,2,424.98,FALSE
+Beverages,Item_29,1807,10,129,1599,1,1626.3,FALSE
+"Dairy, Bread & Batter",Item_54,1793,13,198,1067,1,1559.91,FALSE
+Ice Cream & Desserts,Item_90,124,37,111,577,1,78.12,FALSE
+Biscuits,Item_85,1154,11,126,999,4,1027.06,FALSE
+Beverages,Item_17,1686,44,20,476,3,944.16,FALSE
+Personal Care,Item_80,74,16,146,91,4,62.16,FALSE
+Chocolates & Candies,Item_188,1309,15,88,514,1,1112.65,FALSE
+Chocolates & Candies,Item_159,834,34,46,1695,3,550.44,FALSE
+Paan Corner,Item_73,248,1,149,327,3,245.52,FALSE
+Ice Cream & Desserts,Item_49,311,10,160,885,2,279.9,FALSE
+Personal Care,Item_101,1425,40,159,68,4,855,FALSE
+Paan Corner,Item_2,1555,2,191,115,4,1523.9,FALSE
+Cooking Essentials,Item_176,978,28,84,216,2,704.16,FALSE
+Ice Cream & Desserts,Item_142,378,17,166,1658,4,313.74,FALSE
+Home & Cleaning,Item_59,242,19,127,1069,1,196.02,FALSE
+Beverages,Item_97,204,46,71,452,1,110.16,FALSE
+Munchies,Item_99,916,13,41,1985,4,796.92,FALSE
+Beverages,Item_186,1045,33,8,1895,2,700.15,FALSE
+Packaged Food,Item_103,1939,48,24,458,3,1008.28,FALSE
+Chocolates & Candies,Item_186,930,30,1,161,4,651,FALSE
+Health & Hygiene,Item_179,698,39,18,1347,3,425.78,FALSE
+Munchies,Item_2,186,41,19,1480,2,109.74,FALSE
+Home & Cleaning,Item_41,226,17,69,1446,3,187.58,FALSE
+Beverages,Item_123,1044,29,16,646,2,741.24,FALSE
+Cooking Essentials,Item_82,1479,24,123,700,2,1124.04,FALSE
+Biscuits,Item_144,639,18,88,1112,1,523.98,FALSE
+Chocolates & Candies,Item_132,173,7,195,154,1,160.89,FALSE
+Paan Corner,Item_140,1584,27,93,373,2,1156.32,FALSE
+Personal Care,Item_29,62,7,83,1866,4,57.66,FALSE
+Paan Corner,Item_135,227,30,130,1041,1,158.9,FALSE
+Ice Cream & Desserts,Item_14,1751,2,86,1487,2,1715.98,FALSE
+Fruits & Vegetables,Item_12,1008,2,50,478,3,987.84,FALSE
+Health & Hygiene,Item_99,833,43,81,684,3,474.81,FALSE
+Beverages,Item_133,1393,21,153,779,4,1100.47,FALSE
+"Dairy, Bread & Batter",Item_81,394,16,183,938,3,330.96,FALSE
+"Meats, Fish & Eggs",Item_106,65,35,191,1134,3,42.25,FALSE
+Health & Hygiene,Item_32,127,16,7,1685,2,106.68,FALSE
+Packaged Food,Item_74,909,13,164,1380,3,790.83,FALSE
+Ice Cream & Desserts,Item_171,1286,8,120,1427,3,1183.12,FALSE
+Chocolates & Candies,Item_81,807,29,154,442,3,572.97,FALSE
+Munchies,Item_69,789,20,172,253,3,631.2,FALSE
+Beverages,Item_45,1025,11,3,307,2,912.25,FALSE
+Personal Care,Item_106,812,36,85,535,3,519.68,FALSE
+Munchies,Item_137,854,31,127,1590,4,589.26,FALSE
+Beverages,Item_177,1213,10,109,495,1,1091.7,FALSE
+Munchies,Item_161,1448,19,98,1782,4,1172.88,FALSE
+Munchies,Item_100,1903,34,36,1253,1,1255.98,FALSE
+"Meats, Fish & Eggs",Item_146,1268,46,70,1073,4,684.72,FALSE
+Packaged Food,Item_9,864,45,32,391,1,475.2,FALSE
+Personal Care,Item_62,717,10,30,182,1,645.3,FALSE
+Paan Corner,Item_185,1853,7,182,492,1,1723.29,FALSE
+Munchies,Item_29,1113,3,124,1909,1,1079.61,FALSE
+Personal Care,Item_125,1680,26,11,302,2,1243.2,FALSE
+Packaged Food,Item_114,31,43,10,314,4,17.67,FALSE
+Cooking Essentials,Item_153,1510,39,87,142,1,921.1,FALSE
+Munchies,Item_143,852,37,71,1735,4,536.76,FALSE
+Health & Hygiene,Item_134,1473,46,31,1484,3,795.42,FALSE
+Paan Corner,Item_120,1770,29,56,187,1,1256.7,FALSE
+Beverages,Item_170,1603,43,165,1281,4,913.71,FALSE
+Chocolates & Candies,Item_157,1126,47,187,1051,2,596.78,FALSE
+Home & Cleaning,Item_79,201,47,85,1710,4,106.53,FALSE
+Ice Cream & Desserts,Item_93,1028,26,18,1819,1,760.72,FALSE
+Ice Cream & Desserts,Item_4,1136,20,115,1646,3,908.8,FALSE
+Chocolates & Candies,Item_82,405,19,183,356,4,328.05,FALSE
+Beverages,Item_185,1040,3,13,315,3,1008.8,FALSE
+"Meats, Fish & Eggs",Item_177,649,10,32,695,2,584.1,FALSE
+Ice Cream & Desserts,Item_172,1028,12,9,367,4,904.64,FALSE
+Home & Cleaning,Item_75,576,8,79,1186,4,529.92,FALSE
+Ice Cream & Desserts,Item_14,240,3,191,950,2,232.8,FALSE
+Beverages,Item_131,883,11,63,1451,2,785.87,FALSE
+"Dairy, Bread & Batter",Item_114,583,8,189,503,2,536.36,FALSE
+Health & Hygiene,Item_62,249,12,67,240,1,219.12,FALSE
+"Dairy, Bread & Batter",Item_106,99,47,91,1964,1,52.47,FALSE
+Ice Cream & Desserts,Item_64,241,25,124,1513,4,180.75,FALSE
+Paan Corner,Item_102,466,37,170,1260,4,293.58,FALSE
+Fruits & Vegetables,Item_173,242,41,79,880,4,142.78,FALSE
+Beverages,Item_106,363,12,58,1440,3,319.44,FALSE
+Biscuits,Item_186,1014,38,179,1162,2,628.68,FALSE
+Cooking Essentials,Item_20,1366,27,96,236,4,997.18,FALSE
+Biscuits,Item_58,448,18,18,868,2,367.36,FALSE
+Munchies,Item_112,1408,23,148,1070,1,1084.16,FALSE
+Personal Care,Item_57,1325,18,21,181,2,1086.5,FALSE
+Chocolates & Candies,Item_196,354,48,8,921,3,184.08,FALSE
+Munchies,Item_119,673,12,8,684,3,592.24,FALSE
+Chocolates & Candies,Item_97,1461,12,26,1633,2,1285.68,FALSE
+Cooking Essentials,Item_92,666,27,16,1873,3,486.18,FALSE
+Packaged Food,Item_52,139,1,171,1449,3,137.61,FALSE
+Chocolates & Candies,Item_37,150,9,44,740,1,136.5,FALSE
+"Dairy, Bread & Batter",Item_8,424,21,7,741,4,334.96,FALSE
+Health & Hygiene,Item_44,1126,12,145,1172,3,990.88,FALSE
+Beverages,Item_98,635,8,124,1915,4,584.2,FALSE
+"Meats, Fish & Eggs",Item_133,293,32,122,1107,2,199.24,FALSE
+Personal Care,Item_118,1989,13,32,631,2,1730.43,FALSE
+Paan Corner,Item_69,1956,47,0,220,3,1036.68,TRUE
+Home & Cleaning,Item_159,1688,19,5,1439,2,1367.28,FALSE
+Paan Corner,Item_45,232,14,40,833,1,199.52,FALSE
+Beverages,Item_137,753,31,182,1132,3,519.57,FALSE
+Fruits & Vegetables,Item_32,472,32,4,230,3,320.96,FALSE
+Chocolates & Candies,Item_33,1578,16,186,68,3,1325.52,FALSE
+Packaged Food,Item_126,1309,23,79,1299,2,1007.93,FALSE
+Home & Cleaning,Item_67,1715,29,17,1546,2,1217.65,FALSE
+"Dairy, Bread & Batter",Item_30,1173,12,176,1168,3,1032.24,FALSE
+Beverages,Item_114,366,46,81,930,4,197.64,FALSE
+Munchies,Item_29,1746,47,64,1370,2,925.38,FALSE
+Fruits & Vegetables,Item_131,1056,15,82,1666,2,897.6,FALSE
+"Dairy, Bread & Batter",Item_185,1769,1,181,224,3,1751.31,FALSE
+Fruits & Vegetables,Item_30,1913,16,188,1295,4,1606.92,FALSE
+Chocolates & Candies,Item_137,1303,31,135,1688,3,899.07,FALSE
+Ice Cream & Desserts,Item_154,868,42,130,103,2,503.44,FALSE
+"Dairy, Bread & Batter",Item_130,674,7,24,744,3,626.82,FALSE
+Health & Hygiene,Item_62,1366,2,68,912,3,1338.68,FALSE
+Biscuits,Item_3,1024,11,182,1476,3,911.36,FALSE
+Paan Corner,Item_174,94,19,167,1391,4,76.14,FALSE
+Health & Hygiene,Item_68,630,15,81,1940,3,535.5,FALSE
+Home & Cleaning,Item_25,1064,13,177,398,2,925.68,FALSE
+Personal Care,Item_179,1774,15,116,492,3,1507.9,FALSE
+Ice Cream & Desserts,Item_141,249,48,94,882,4,129.48,FALSE
+Biscuits,Item_44,1923,42,32,629,1,1115.34,FALSE
+Health & Hygiene,Item_163,372,48,110,1613,4,193.44,FALSE
+Beverages,Item_55,831,32,145,1859,3,565.08,FALSE
+Fruits & Vegetables,Item_137,1422,29,124,331,1,1009.62,FALSE
+Home & Cleaning,Item_130,1686,11,184,409,3,1500.54,FALSE
+Munchies,Item_189,677,14,15,964,4,582.22,FALSE
+Beverages,Item_41,1332,17,79,872,1,1105.56,FALSE
+Biscuits,Item_172,1890,27,37,1704,1,1379.7,FALSE
+Packaged Food,Item_64,1404,22,168,941,3,1095.12,FALSE
+Fruits & Vegetables,Item_31,108,13,134,1002,3,93.96,FALSE
+Cooking Essentials,Item_47,56,29,77,1719,4,39.76,FALSE
+Home & Cleaning,Item_130,848,32,180,690,3,576.64,FALSE
+Personal Care,Item_96,431,44,62,1081,1,241.36,FALSE
+Biscuits,Item_77,1513,14,111,612,2,1301.18,FALSE
+Home & Cleaning,Item_110,1612,6,88,540,2,1515.28,FALSE
+Cooking Essentials,Item_69,71,14,159,390,4,61.06,FALSE
+Health & Hygiene,Item_58,1142,41,37,521,3,673.78,FALSE
+Munchies,Item_106,1712,45,149,1866,4,941.6,FALSE
+Home & Cleaning,Item_44,1582,37,143,1760,2,996.66,FALSE
+Munchies,Item_74,1152,45,51,1768,2,633.6,FALSE
+Biscuits,Item_56,1019,43,28,1777,3,580.83,FALSE
+Ice Cream & Desserts,Item_171,607,10,143,298,1,546.3,FALSE
+Chocolates & Candies,Item_127,1415,28,75,284,3,1018.8,FALSE
+Ice Cream & Desserts,Item_162,401,30,144,1156,2,280.7,FALSE
+Health & Hygiene,Item_30,986,24,63,1166,1,749.36,FALSE
+Beverages,Item_71,1085,23,90,1958,4,835.45,FALSE
+Biscuits,Item_198,612,18,88,1467,2,501.84,FALSE
+Chocolates & Candies,Item_118,1322,1,12,873,4,1308.78,FALSE
+"Meats, Fish & Eggs",Item_55,346,21,71,1341,1,273.34,FALSE
+Personal Care,Item_67,819,19,183,1490,4,663.39,FALSE
+Chocolates & Candies,Item_141,1237,32,4,681,2,841.16,FALSE
+"Meats, Fish & Eggs",Item_3,1913,7,11,1656,3,1779.09,FALSE
+Packaged Food,Item_26,1271,24,168,578,4,965.96,FALSE
+Packaged Food,Item_57,1415,45,2,1326,2,778.25,FALSE
+Paan Corner,Item_126,1700,8,32,171,2,1564,FALSE
+Fruits & Vegetables,Item_152,761,33,120,941,1,509.87,FALSE
+Cooking Essentials,Item_53,1169,22,49,59,2,911.82,FALSE
+Chocolates & Candies,Item_198,1440,4,183,1872,3,1382.4,FALSE
+"Dairy, Bread & Batter",Item_43,1541,24,136,1389,3,1171.16,FALSE
+Personal Care,Item_188,1395,7,177,887,4,1297.35,FALSE
+Chocolates & Candies,Item_186,1414,15,28,1346,4,1201.9,FALSE
+"Meats, Fish & Eggs",Item_49,890,47,38,1379,4,471.7,FALSE
+Cooking Essentials,Item_42,1609,44,90,1878,4,901.04,FALSE
+"Dairy, Bread & Batter",Item_194,644,14,99,1283,3,553.84,FALSE
+Personal Care,Item_11,263,0,172,1803,1,263,FALSE
+"Dairy, Bread & Batter",Item_103,1510,21,16,802,4,1192.9,FALSE
+Health & Hygiene,Item_98,1147,2,55,935,1,1124.06,FALSE
+"Meats, Fish & Eggs",Item_146,29,37,45,513,2,18.27,FALSE
+Packaged Food,Item_85,537,13,66,761,2,467.19,FALSE
+Home & Cleaning,Item_100,1178,35,196,777,4,765.7,FALSE
+Health & Hygiene,Item_104,1241,17,141,766,2,1030.03,FALSE
+Personal Care,Item_180,1564,46,66,1998,1,844.56,FALSE
+Personal Care,Item_46,385,40,22,1489,1,231,FALSE
+Biscuits,Item_44,1537,17,93,1289,2,1275.71,FALSE
+"Meats, Fish & Eggs",Item_22,1937,2,188,129,4,1898.26,FALSE
+Paan Corner,Item_181,175,9,150,1852,1,159.25,FALSE
+Paan Corner,Item_187,1583,48,154,529,1,823.16,FALSE
+Personal Care,Item_114,1214,38,53,951,3,752.68,FALSE
+Cooking Essentials,Item_125,870,46,137,940,4,469.8,FALSE
+Paan Corner,Item_124,626,0,76,1620,3,626,FALSE
+Fruits & Vegetables,Item_30,621,26,15,1874,2,459.54,FALSE
+Packaged Food,Item_8,1635,26,40,67,2,1209.9,FALSE
+Biscuits,Item_98,1960,10,97,1238,3,1764,FALSE
+Personal Care,Item_57,1845,48,182,1598,4,959.4,FALSE
+Paan Corner,Item_111,1477,4,127,251,1,1417.92,FALSE
+"Meats, Fish & Eggs",Item_73,1365,6,60,790,2,1283.1,FALSE
+Ice Cream & Desserts,Item_115,512,18,85,1419,4,419.84,FALSE
+Chocolates & Candies,Item_20,922,28,117,1439,4,663.84,FALSE
+Home & Cleaning,Item_25,88,14,99,1521,2,75.68,FALSE
+Munchies,Item_19,594,34,48,1586,2,392.04,FALSE
+Packaged Food,Item_5,1968,46,179,368,4,1062.72,FALSE
+Health & Hygiene,Item_75,1971,36,1,266,1,1261.44,FALSE
+Cooking Essentials,Item_128,697,11,119,1107,3,620.33,FALSE
+Ice Cream & Desserts,Item_72,405,29,177,1944,2,287.55,FALSE
+Cooking Essentials,Item_155,1641,19,122,315,3,1329.21,FALSE
+Health & Hygiene,Item_40,1890,36,85,1713,4,1209.6,FALSE
+Fruits & Vegetables,Item_26,1136,2,170,773,3,1113.28,FALSE
+"Dairy, Bread & Batter",Item_27,411,8,76,824,1,378.12,FALSE
+"Meats, Fish & Eggs",Item_190,984,40,135,1897,4,590.4,FALSE
+"Dairy, Bread & Batter",Item_83,233,38,58,1153,1,144.46,FALSE
+Biscuits,Item_128,527,25,192,1750,4,395.25,FALSE
+Home & Cleaning,Item_178,643,1,11,462,1,636.57,FALSE
+Biscuits,Item_170,245,22,3,1325,4,191.1,FALSE
+Personal Care,Item_157,1460,22,116,1085,1,1138.8,FALSE
+Ice Cream & Desserts,Item_167,125,20,94,450,4,100,FALSE
+"Meats, Fish & Eggs",Item_188,1196,15,124,1889,1,1016.6,FALSE
+Ice Cream & Desserts,Item_169,235,8,40,773,4,216.2,FALSE
+Personal Care,Item_33,239,12,122,331,1,210.32,FALSE
+Beverages,Item_97,191,27,6,1185,2,139.43,FALSE
+Paan Corner,Item_111,1282,26,68,772,3,948.68,FALSE
+Health & Hygiene,Item_16,1351,16,68,1451,4,1134.84,FALSE
+Ice Cream & Desserts,Item_23,1998,37,80,800,1,1258.74,FALSE
+Chocolates & Candies,Item_135,219,35,29,317,2,142.35,FALSE
+Personal Care,Item_26,1689,0,72,1990,4,1689,FALSE
+"Dairy, Bread & Batter",Item_96,1425,17,5,347,4,1182.75,FALSE
+Beverages,Item_12,1890,8,88,1390,4,1738.8,FALSE
+Health & Hygiene,Item_72,105,12,146,619,3,92.4,FALSE
+Personal Care,Item_133,903,39,65,558,1,550.83,FALSE
+Ice Cream & Desserts,Item_106,1891,44,9,595,1,1058.96,FALSE
+Beverages,Item_117,765,14,143,824,4,657.9,FALSE
+Beverages,Item_197,1119,42,36,414,4,649.02,FALSE
+"Meats, Fish & Eggs",Item_177,424,43,76,596,4,241.68,FALSE
+Biscuits,Item_26,403,45,76,320,2,221.65,FALSE
+Beverages,Item_133,705,3,31,1547,4,683.85,FALSE
+Munchies,Item_22,1666,32,46,788,3,1132.88,FALSE
+Fruits & Vegetables,Item_13,853,23,109,586,1,656.81,FALSE
+Cooking Essentials,Item_156,1534,35,199,1307,3,997.1,FALSE
+Munchies,Item_161,613,40,170,108,4,367.8,FALSE
+Biscuits,Item_107,591,9,119,1324,2,537.81,FALSE
+Cooking Essentials,Item_23,1949,35,163,1920,4,1266.85,FALSE
+Cooking Essentials,Item_97,142,19,153,135,4,115.02,FALSE
+Health & Hygiene,Item_18,800,40,9,812,4,480,FALSE
+Health & Hygiene,Item_117,658,44,158,439,4,368.48,FALSE
+Health & Hygiene,Item_30,1347,43,96,1253,4,767.79,FALSE
+Health & Hygiene,Item_26,1732,10,156,768,1,1558.8,FALSE
+Fruits & Vegetables,Item_144,230,11,4,905,3,204.7,FALSE
+Munchies,Item_39,985,17,76,198,2,817.55,FALSE
+Ice Cream & Desserts,Item_161,1471,29,0,632,4,1044.41,TRUE
+Personal Care,Item_154,1079,43,130,170,2,615.03,FALSE
+Home & Cleaning,Item_176,1823,47,66,814,1,966.19,FALSE
+Ice Cream & Desserts,Item_193,1225,36,198,654,3,784,FALSE
+Beverages,Item_166,1553,19,162,305,4,1257.93,FALSE
+Health & Hygiene,Item_130,1412,24,14,815,1,1073.12,FALSE
+Packaged Food,Item_113,797,11,194,913,1,709.33,FALSE
+Biscuits,Item_134,700,20,92,849,3,560,FALSE
+Biscuits,Item_46,1367,24,29,1382,4,1038.92,FALSE
+Beverages,Item_50,48,10,102,108,3,43.2,FALSE
+Personal Care,Item_166,1326,8,81,1071,3,1219.92,FALSE
+Chocolates & Candies,Item_106,699,49,74,1142,2,356.49,FALSE
+Chocolates & Candies,Item_146,171,24,170,1519,2,129.96,FALSE
+Home & Cleaning,Item_155,1364,34,59,437,3,900.24,FALSE
+Munchies,Item_169,1919,31,39,1159,2,1324.11,FALSE
+Personal Care,Item_72,1137,48,192,835,1,591.24,FALSE
+Beverages,Item_74,170,13,156,1300,3,147.9,FALSE
+Chocolates & Candies,Item_17,1832,0,73,642,4,1832,FALSE
+Chocolates & Candies,Item_190,1668,16,120,1699,4,1401.12,FALSE
+Chocolates & Candies,Item_157,1087,24,146,1257,1,826.12,FALSE
+"Dairy, Bread & Batter",Item_186,1973,7,2,1865,4,1834.89,FALSE
+Packaged Food,Item_70,1067,4,35,1395,4,1024.32,FALSE
+Ice Cream & Desserts,Item_150,251,4,42,958,3,240.96,FALSE
+Fruits & Vegetables,Item_6,976,40,142,1391,1,585.6,FALSE
+Beverages,Item_26,899,34,168,615,3,593.34,FALSE
+Paan Corner,Item_167,122,18,114,448,1,100.04,FALSE
+"Meats, Fish & Eggs",Item_140,1023,22,108,1782,3,797.94,FALSE
+Ice Cream & Desserts,Item_99,327,8,89,948,3,300.84,FALSE
+"Meats, Fish & Eggs",Item_142,32,29,163,1366,2,22.72,FALSE
+Personal Care,Item_22,1591,49,83,342,4,811.41,FALSE
+Cooking Essentials,Item_51,833,15,76,534,1,708.05,FALSE
+Beverages,Item_151,1680,32,160,1972,4,1142.4,FALSE
+Cooking Essentials,Item_176,1151,1,4,1520,2,1139.49,FALSE
+Beverages,Item_199,710,13,77,852,1,617.7,FALSE
+"Meats, Fish & Eggs",Item_104,1676,45,90,1765,2,921.8,FALSE
+Home & Cleaning,Item_178,1028,0,86,1965,4,1028,FALSE
+"Meats, Fish & Eggs",Item_89,1967,25,13,1485,3,1475.25,FALSE
+Beverages,Item_141,1245,24,103,1581,2,946.2,FALSE
+Chocolates & Candies,Item_138,1451,15,195,1807,2,1233.35,FALSE
+Home & Cleaning,Item_183,1146,14,82,1859,3,985.56,FALSE
+Cooking Essentials,Item_9,1077,25,174,939,4,807.75,FALSE
+Health & Hygiene,Item_79,137,46,53,293,2,73.98,FALSE
+Munchies,Item_52,885,43,131,1493,4,504.45,FALSE
+Paan Corner,Item_130,167,15,94,1009,3,141.95,FALSE
+"Dairy, Bread & Batter",Item_153,1818,13,8,1227,1,1581.66,FALSE
+Packaged Food,Item_13,836,28,52,865,2,601.92,FALSE
+Fruits & Vegetables,Item_51,1427,23,76,1497,4,1098.79,FALSE
+Health & Hygiene,Item_186,1900,46,59,322,3,1026,FALSE
+Biscuits,Item_34,861,14,45,1720,3,740.46,FALSE
+"Meats, Fish & Eggs",Item_35,521,18,53,1898,2,427.22,FALSE
+Munchies,Item_131,1947,7,73,569,1,1810.71,FALSE
+Cooking Essentials,Item_120,54,33,111,1201,2,36.18,FALSE
+Paan Corner,Item_187,1141,1,94,1446,4,1129.59,FALSE
+"Meats, Fish & Eggs",Item_70,228,26,164,617,3,168.72,FALSE
+Cooking Essentials,Item_176,452,9,22,687,1,411.32,FALSE
+Munchies,Item_192,1863,34,26,208,4,1229.58,FALSE
+Packaged Food,Item_147,324,22,69,1644,2,252.72,FALSE
+"Meats, Fish & Eggs",Item_67,186,48,193,1643,3,96.72,FALSE
+Health & Hygiene,Item_103,237,7,108,701,2,220.41,FALSE
+Chocolates & Candies,Item_73,1736,27,188,225,1,1267.28,FALSE
+Ice Cream & Desserts,Item_116,1705,22,76,669,1,1329.9,FALSE
+Chocolates & Candies,Item_133,1939,3,178,260,1,1880.83,FALSE
+"Dairy, Bread & Batter",Item_67,276,13,49,496,1,240.12,FALSE
+Home & Cleaning,Item_139,879,41,123,635,1,518.61,FALSE
+"Meats, Fish & Eggs",Item_121,847,28,18,216,2,609.84,FALSE
+Personal Care,Item_94,1412,0,0,509,1,1412,TRUE
+Chocolates & Candies,Item_196,498,3,39,965,1,483.06,FALSE
+Packaged Food,Item_197,711,31,159,1430,3,490.59,FALSE
+Beverages,Item_129,696,32,21,1377,1,473.28,FALSE
+Ice Cream & Desserts,Item_91,1323,48,111,1306,3,687.96,FALSE
+Paan Corner,Item_92,1005,25,193,1400,3,753.75,FALSE
+Cooking Essentials,Item_63,366,16,39,1957,3,307.44,FALSE
+Personal Care,Item_29,1690,38,37,1255,2,1047.8,FALSE
+Health & Hygiene,Item_12,1777,22,47,1707,2,1386.06,FALSE
+Health & Hygiene,Item_77,881,31,182,1407,4,607.89,FALSE
+"Dairy, Bread & Batter",Item_41,1983,14,74,1788,4,1705.38,FALSE
+"Dairy, Bread & Batter",Item_130,213,12,182,1102,3,187.44,FALSE
+Home & Cleaning,Item_37,1246,1,178,763,2,1233.54,FALSE
+Ice Cream & Desserts,Item_173,561,18,106,1166,1,460.02,FALSE
+Beverages,Item_176,1820,23,187,890,4,1401.4,FALSE
+Paan Corner,Item_24,332,44,7,917,2,185.92,FALSE
+Beverages,Item_99,603,23,85,737,1,464.31,FALSE
+Biscuits,Item_150,190,10,67,379,1,171,FALSE
+"Dairy, Bread & Batter",Item_100,508,21,74,1796,2,401.32,FALSE
+Home & Cleaning,Item_139,1353,14,199,1257,4,1163.58,FALSE
+Munchies,Item_58,92,9,136,144,2,83.72,FALSE
+Fruits & Vegetables,Item_174,312,40,89,834,4,187.2,FALSE
+"Meats, Fish & Eggs",Item_29,271,26,129,698,3,200.54,FALSE
+"Meats, Fish & Eggs",Item_163,793,8,79,1822,2,729.56,FALSE
+Munchies,Item_143,1233,27,94,402,2,900.09,FALSE
+Fruits & Vegetables,Item_60,1273,0,69,979,4,1273,FALSE
+Chocolates & Candies,Item_95,923,16,89,990,4,775.32,FALSE
+Beverages,Item_42,701,30,58,1033,2,490.7,FALSE
+Fruits & Vegetables,Item_43,953,43,146,1338,1,543.21,FALSE
+Home & Cleaning,Item_74,692,9,27,1720,1,629.72,FALSE
+Paan Corner,Item_177,1328,36,71,1729,1,849.92,FALSE
+Fruits & Vegetables,Item_192,1545,28,13,1092,3,1112.4,FALSE
+Home & Cleaning,Item_160,698,17,23,1816,3,579.34,FALSE
+Munchies,Item_64,1914,46,111,695,4,1033.56,FALSE
+"Dairy, Bread & Batter",Item_2,405,37,43,675,3,255.15,FALSE
+Munchies,Item_152,1782,38,55,1572,1,1104.84,FALSE
+Personal Care,Item_66,1171,48,119,188,2,608.92,FALSE
+Health & Hygiene,Item_166,848,5,178,1710,3,805.6,FALSE
+Health & Hygiene,Item_31,887,39,31,765,3,541.07,FALSE
+Ice Cream & Desserts,Item_115,832,11,177,1646,1,740.48,FALSE
+Munchies,Item_26,1162,13,168,811,3,1010.94,FALSE
+Biscuits,Item_29,58,43,193,1883,4,33.06,FALSE
+Beverages,Item_195,1709,9,24,1598,2,1555.19,FALSE
+Paan Corner,Item_78,798,19,115,1981,1,646.38,FALSE
+Personal Care,Item_25,302,14,188,304,4,259.72,FALSE
+Personal Care,Item_48,1661,30,65,1158,1,1162.7,FALSE
+"Dairy, Bread & Batter",Item_65,545,6,41,1531,4,512.3,FALSE
+Fruits & Vegetables,Item_181,320,40,192,1605,2,192,FALSE
+Beverages,Item_67,546,9,163,1635,2,496.86,FALSE
+Munchies,Item_90,1936,9,75,725,4,1761.76,FALSE
+"Meats, Fish & Eggs",Item_146,648,47,136,141,4,343.44,FALSE
+Personal Care,Item_137,243,38,163,1673,4,150.66,FALSE
+Home & Cleaning,Item_38,1242,27,37,1142,4,906.66,FALSE
+"Meats, Fish & Eggs",Item_87,614,29,160,86,4,435.94,FALSE
+Munchies,Item_149,103,36,169,1838,4,65.92,FALSE
+Biscuits,Item_65,336,2,60,1837,2,329.28,FALSE
+Fruits & Vegetables,Item_149,234,49,173,189,4,119.34,FALSE
+Fruits & Vegetables,Item_27,976,42,88,916,3,566.08,FALSE
+Paan Corner,Item_106,899,14,188,1966,2,773.14,FALSE
+Personal Care,Item_123,1825,20,17,729,1,1460,FALSE
+"Dairy, Bread & Batter",Item_198,20,36,69,1639,2,12.8,FALSE
+Chocolates & Candies,Item_44,1362,11,81,1971,1,1212.18,FALSE
+Chocolates & Candies,Item_100,1045,3,115,1251,1,1013.65,FALSE
+Packaged Food,Item_28,44,46,79,1882,3,23.76,FALSE
+Health & Hygiene,Item_173,456,8,14,1886,4,419.52,FALSE
+Home & Cleaning,Item_17,1485,38,175,1944,4,920.7,FALSE
+"Meats, Fish & Eggs",Item_127,1773,41,199,1691,2,1046.07,FALSE
+Packaged Food,Item_123,1253,27,12,186,4,914.69,FALSE
+Biscuits,Item_168,450,22,118,239,3,351,FALSE
+Cooking Essentials,Item_131,662,44,42,1713,2,370.72,FALSE
+Health & Hygiene,Item_76,1568,39,187,391,2,956.48,FALSE
+Fruits & Vegetables,Item_194,604,43,56,1632,2,344.28,FALSE
+"Meats, Fish & Eggs",Item_46,238,21,198,1078,4,188.02,FALSE
+Beverages,Item_158,1968,23,16,1021,4,1515.36,FALSE
+Personal Care,Item_69,353,25,177,1330,4,264.75,FALSE
+Biscuits,Item_137,1113,29,31,1885,2,790.23,FALSE
+Beverages,Item_85,1386,32,149,711,2,942.48,FALSE
+"Dairy, Bread & Batter",Item_11,1429,15,54,1879,1,1214.65,FALSE
+Packaged Food,Item_69,1323,21,184,292,1,1045.17,FALSE
+Personal Care,Item_99,1488,48,12,1860,4,773.76,FALSE
+"Meats, Fish & Eggs",Item_91,1876,49,46,1793,2,956.76,FALSE
+Personal Care,Item_194,1704,42,86,464,4,988.32,FALSE
+Health & Hygiene,Item_159,998,17,61,1700,4,828.34,FALSE
+Paan Corner,Item_161,1161,6,181,756,1,1091.34,FALSE
+Munchies,Item_167,1735,49,28,392,3,884.85,FALSE
+Health & Hygiene,Item_94,918,25,21,731,4,688.5,FALSE
+"Dairy, Bread & Batter",Item_174,1576,7,64,1452,3,1465.68,FALSE
+Home & Cleaning,Item_165,1931,5,28,1667,3,1834.45,FALSE
+Beverages,Item_115,1392,29,47,1739,2,988.32,FALSE
+Cooking Essentials,Item_188,536,38,4,702,2,332.32,FALSE
+Ice Cream & Desserts,Item_31,1346,22,162,1899,4,1049.88,FALSE
+Health & Hygiene,Item_11,84,31,100,195,1,57.96,FALSE
+Paan Corner,Item_87,1579,21,70,372,1,1247.41,FALSE
+Munchies,Item_121,1904,41,173,171,4,1123.36,FALSE
+Home & Cleaning,Item_130,205,42,162,1325,4,118.9,FALSE
+Health & Hygiene,Item_105,1876,44,172,1928,1,1050.56,FALSE
+Fruits & Vegetables,Item_27,38,8,140,1972,3,34.96,FALSE
+Paan Corner,Item_2,715,30,137,360,4,500.5,FALSE
+Cooking Essentials,Item_103,1030,6,65,650,3,968.2,FALSE
+Beverages,Item_101,25,8,197,524,4,23,FALSE
+Biscuits,Item_21,1456,12,71,619,4,1281.28,FALSE
+Chocolates & Candies,Item_58,1622,2,24,1565,3,1589.56,FALSE
+Home & Cleaning,Item_133,814,34,171,624,3,537.24,FALSE
+Fruits & Vegetables,Item_180,1626,32,59,396,1,1105.68,FALSE
+Ice Cream & Desserts,Item_173,1438,20,174,869,4,1150.4,FALSE
+Biscuits,Item_85,949,30,39,1560,2,664.3,FALSE
+"Meats, Fish & Eggs",Item_93,1669,33,6,1546,2,1118.23,FALSE
+Cooking Essentials,Item_20,1564,31,173,431,4,1079.16,FALSE
+Paan Corner,Item_61,976,34,150,1353,4,644.16,FALSE
+Packaged Food,Item_38,1647,14,45,121,4,1416.42,FALSE
+Fruits & Vegetables,Item_148,1937,31,85,570,3,1336.53,FALSE
+Personal Care,Item_25,1110,5,140,1439,2,1054.5,FALSE
+"Meats, Fish & Eggs",Item_130,238,44,20,982,2,133.28,FALSE
+"Meats, Fish & Eggs",Item_121,971,20,0,1167,2,776.8,TRUE
+Ice Cream & Desserts,Item_160,1330,32,122,1446,4,904.4,FALSE
+Home & Cleaning,Item_26,1543,31,146,388,3,1064.67,FALSE
+Ice Cream & Desserts,Item_198,724,18,124,1510,4,593.68,FALSE
+Paan Corner,Item_169,993,32,187,1409,1,675.24,FALSE
+Ice Cream & Desserts,Item_67,1999,27,32,713,1,1459.27,FALSE
+Munchies,Item_1,582,30,3,1565,2,407.4,FALSE
+Fruits & Vegetables,Item_51,1571,20,2,1990,4,1256.8,FALSE
+"Dairy, Bread & Batter",Item_5,1616,33,90,1941,1,1082.72,FALSE
+Packaged Food,Item_13,624,14,51,89,1,536.64,FALSE
+Fruits & Vegetables,Item_147,335,13,27,1432,4,291.45,FALSE
+Munchies,Item_140,1396,18,69,623,3,1144.72,FALSE
+Ice Cream & Desserts,Item_48,1702,42,197,1327,4,987.16,FALSE
+Health & Hygiene,Item_153,884,14,182,1015,4,760.24,FALSE
+"Meats, Fish & Eggs",Item_57,368,5,56,630,3,349.6,FALSE
+Beverages,Item_115,1739,8,107,1471,2,1599.88,FALSE
+"Meats, Fish & Eggs",Item_35,1820,36,143,1830,2,1164.8,FALSE
+Munchies,Item_76,333,19,23,1950,2,269.73,FALSE
+"Meats, Fish & Eggs",Item_94,1731,33,196,219,3,1159.77,FALSE
+Chocolates & Candies,Item_5,1359,37,168,1763,1,856.17,FALSE
+Packaged Food,Item_22,1658,25,76,750,3,1243.5,FALSE
+Packaged Food,Item_103,1858,17,174,560,4,1542.14,FALSE
+Cooking Essentials,Item_185,174,27,75,1333,3,127.02,FALSE
+Personal Care,Item_175,1606,8,68,633,1,1477.52,FALSE
+Ice Cream & Desserts,Item_182,1637,31,100,1033,1,1129.53,FALSE
+"Dairy, Bread & Batter",Item_131,807,5,158,508,4,766.65,FALSE
+Biscuits,Item_124,464,13,91,578,2,403.68,FALSE
+Cooking Essentials,Item_53,1186,27,91,1955,1,865.78,FALSE
+Packaged Food,Item_159,1770,23,29,390,1,1362.9,FALSE
+Ice Cream & Desserts,Item_69,1160,12,17,106,1,1020.8,FALSE
+Biscuits,Item_104,202,42,43,267,4,117.16,FALSE
+Packaged Food,Item_161,636,11,154,668,1,566.04,FALSE
+Personal Care,Item_200,1807,18,98,865,2,1481.74,FALSE
+"Meats, Fish & Eggs",Item_178,539,20,153,1758,4,431.2,FALSE
+Munchies,Item_16,1043,26,120,780,2,771.82,FALSE
+Biscuits,Item_116,101,18,114,513,1,82.82,FALSE
+Ice Cream & Desserts,Item_76,148,23,59,296,1,113.96,FALSE
+Paan Corner,Item_109,490,25,145,779,2,367.5,FALSE
+"Dairy, Bread & Batter",Item_39,458,44,55,422,4,256.48,FALSE
+Cooking Essentials,Item_89,1366,27,30,466,4,997.18,FALSE
+Biscuits,Item_174,878,45,100,1104,2,482.9,FALSE
+Personal Care,Item_112,349,17,58,417,1,289.67,FALSE
+Health & Hygiene,Item_47,1994,43,123,608,3,1136.58,FALSE
+Biscuits,Item_172,1085,35,129,1719,2,705.25,FALSE
+Ice Cream & Desserts,Item_137,1740,41,96,157,2,1026.6,FALSE
+"Dairy, Bread & Batter",Item_128,475,28,166,633,2,342,FALSE
+Packaged Food,Item_178,727,16,188,888,1,610.68,FALSE
+Home & Cleaning,Item_77,808,3,106,467,4,783.76,FALSE
+Packaged Food,Item_188,484,43,190,1693,1,275.88,FALSE
+Home & Cleaning,Item_15,410,44,17,870,2,229.6,FALSE
+Cooking Essentials,Item_36,1472,28,144,1471,1,1059.84,FALSE
+Paan Corner,Item_63,1911,3,166,1345,1,1853.67,FALSE
+Fruits & Vegetables,Item_69,614,9,70,732,2,558.74,FALSE
+Fruits & Vegetables,Item_169,941,24,105,1189,1,715.16,FALSE
+Biscuits,Item_74,1006,30,53,1914,3,704.2,FALSE
+Beverages,Item_24,931,2,93,1659,1,912.38,FALSE
+Cooking Essentials,Item_49,830,46,75,305,1,448.2,FALSE
+Ice Cream & Desserts,Item_146,666,1,34,1154,4,659.34,FALSE
+Cooking Essentials,Item_7,607,24,10,829,4,461.32,FALSE
+Health & Hygiene,Item_4,1542,48,60,1201,2,801.84,FALSE
+Personal Care,Item_90,1186,5,43,887,2,1126.7,FALSE
+Health & Hygiene,Item_197,523,25,120,964,4,392.25,FALSE
+Home & Cleaning,Item_60,1536,7,67,284,3,1428.48,FALSE
+Ice Cream & Desserts,Item_55,1887,34,24,602,1,1245.42,FALSE
+Ice Cream & Desserts,Item_16,1934,26,175,230,3,1431.16,FALSE
+Biscuits,Item_29,1805,24,159,206,3,1371.8,FALSE
+Packaged Food,Item_151,1709,17,83,1527,4,1418.47,FALSE
+Cooking Essentials,Item_14,1039,0,113,620,2,1039,FALSE
+"Dairy, Bread & Batter",Item_79,509,47,131,906,1,269.77,FALSE
+Personal Care,Item_177,1694,38,165,1834,2,1050.28,FALSE
+Health & Hygiene,Item_33,726,2,190,1777,3,711.48,FALSE
+Munchies,Item_153,1151,3,174,1097,3,1116.47,FALSE
+"Dairy, Bread & Batter",Item_21,1518,40,0,1546,2,910.8,TRUE
+Personal Care,Item_145,610,36,130,1473,2,390.4,FALSE
+Health & Hygiene,Item_23,675,14,85,997,4,580.5,FALSE
+Paan Corner,Item_57,1984,7,61,641,2,1845.12,FALSE
+Home & Cleaning,Item_186,1712,37,63,183,2,1078.56,FALSE
+"Meats, Fish & Eggs",Item_142,477,49,144,470,4,243.27,FALSE
+Personal Care,Item_93,170,18,125,262,2,139.4,FALSE
+Home & Cleaning,Item_20,279,46,104,949,3,150.66,FALSE
+Ice Cream & Desserts,Item_158,1089,25,61,531,2,816.75,FALSE
+Chocolates & Candies,Item_19,237,38,34,397,1,146.94,FALSE
+Beverages,Item_181,858,9,12,215,3,780.78,FALSE
+Ice Cream & Desserts,Item_103,158,37,162,986,4,99.54,FALSE
+Biscuits,Item_184,1079,13,42,397,3,938.73,FALSE
+Chocolates & Candies,Item_77,1177,48,129,898,4,612.04,FALSE
+"Dairy, Bread & Batter",Item_151,1783,40,183,447,1,1069.8,FALSE
+Ice Cream & Desserts,Item_190,1817,18,110,632,1,1489.94,FALSE
+Ice Cream & Desserts,Item_33,641,29,127,775,3,455.11,FALSE
+Personal Care,Item_18,1373,4,50,1508,2,1318.08,FALSE
+Biscuits,Item_73,422,30,181,1650,3,295.4,FALSE
+Biscuits,Item_161,1765,6,143,1294,3,1659.1,FALSE
+Chocolates & Candies,Item_160,529,18,145,357,1,433.78,FALSE
+Cooking Essentials,Item_189,1377,30,134,1040,4,963.9,FALSE
+Ice Cream & Desserts,Item_182,396,38,44,847,3,245.52,FALSE
+Chocolates & Candies,Item_17,1506,23,163,1770,2,1159.62,FALSE
+"Meats, Fish & Eggs",Item_19,284,33,168,768,1,190.28,FALSE
+Health & Hygiene,Item_70,362,22,41,515,3,282.36,FALSE
+Personal Care,Item_120,1099,47,134,148,3,582.47,FALSE
+Cooking Essentials,Item_101,1112,44,14,1315,2,622.72,FALSE
+Home & Cleaning,Item_34,607,39,59,207,3,370.27,FALSE
+Fruits & Vegetables,Item_84,1669,5,39,659,3,1585.55,FALSE
+Ice Cream & Desserts,Item_153,1235,37,164,603,3,778.05,FALSE
+Packaged Food,Item_196,1695,40,193,700,3,1017,FALSE
+Personal Care,Item_74,567,35,111,1868,2,368.55,FALSE
+Personal Care,Item_88,122,26,182,969,3,90.28,FALSE
+Personal Care,Item_85,1124,10,76,276,3,1011.6,FALSE
+Biscuits,Item_11,150,4,104,472,3,144,FALSE
+"Dairy, Bread & Batter",Item_91,1322,16,106,1145,1,1110.48,FALSE
+Biscuits,Item_144,1934,6,121,292,2,1817.96,FALSE
+"Dairy, Bread & Batter",Item_189,739,26,79,579,1,546.86,FALSE
+Munchies,Item_127,598,46,124,1662,1,322.92,FALSE
+Chocolates & Candies,Item_113,420,14,183,1118,2,361.2,FALSE
